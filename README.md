@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Amira-Dgham
+# 👋 Hi, I’m Amira Dgham
 
 - 👀 I’m interested in mobile development, specifically building intuitive and high-performance apps using React Native and Swift for iOS.
 - 🌱 I’m currently expanding my expertise in CI/CD pipelines, iOS app development, and optimizing mobile app performance.
