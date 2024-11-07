@@ -5,8 +5,7 @@
 - 💞️ I’m looking to collaborate on innovative mobile projects that aim to deliver seamless user experiences and solve real-world problems.
 - 📫 How to reach me: [dghamamira15@gmail.com](mailto:dghamamira15@gmail.com)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love discovering new productivity hacks and trying out the latest tech gadgets!
-
+- ⚡ Fun fact: I'm embracing a season of growth, connecting with my inner voice and diving into new tech discoveries!
 <!---
 Amira-Dgham/Amira-Dgham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
