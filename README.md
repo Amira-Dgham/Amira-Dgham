@@ -1,10 +1,10 @@
 # 🦋🦋 Hey there, I’m Amira Dgham 🦋🦋
- 📱 Mobile App Developer | React Native & SwiftUI (iOS)
- 🌈 Crafting beautiful, smooth, and intuitive app experiences
- 🧪 Currently spreading my wings into the SDET field — exploring Java & Playwright for test automation
- 🚀 Growing in CI/CD, performance tuning, and mobile best practices
- 🤝 Excited to collaborate on projects that make a flutter in the real world
- 💌 Reach me at: dghamamira15@gmail.com
+
+- 📱 Mobile Application Developer | React Native & Swift UI (iOS)
+- 🎯 Crafting beautiful, smooth, and intuitive app experiences
+- 🧪 Currently spreading my wings into the SDET field — exploring Java & Playwright for test automation
+- 🤝 Open to collaborating on innovative projects solving real-world problems through technology.
+- 📧 Contact: dghamamira15@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Amira-Dgham&color=blue)
 <!---
